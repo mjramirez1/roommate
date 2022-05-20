@@ -1,5 +1,4 @@
 # Prueba Roommate
-# Prueba Roommate
 ### Requisitos
 1. Ocupar el módulo File System para la manipulación de archivos alojados en el
 servidor 
